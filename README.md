@@ -4,3 +4,5 @@
 
 -Sounds are preselected
 -Compatible and responsive with Windows (Firefox + Chrome), iPhone and iPad.
+
+-Interface needs redesigning
